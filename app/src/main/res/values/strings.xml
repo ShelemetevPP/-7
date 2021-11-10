@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App_CPC7</string>
+    <string name="first_chips">Кнопка1</string>
+    <string name="second_chips">Кнопка2</string>
+    <string name="third_chips">Кнопка3</string>
+    <string name="four_chips">Кнопка4</string>
+    <string name="title_card">Заголовок карточки</string>
+    <string name="top_button">Первая кнопка</string>
+    <string name="middle_button">Вторая кнопка</string>
+    <string name="last_button">Третья кнопка</string>
+    <string name="fab_content_desc">FAB</string>
+    <string name="fab_content">ФАБ</string>
+    <string name="fab_label">ФАБ</string>
+
+</resources>
